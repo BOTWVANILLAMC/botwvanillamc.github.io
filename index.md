@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# SERVER INFO
 
-You can use the [editor on GitHub](https://github.com/BOTWVANILLAMC/botwvanillamc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Info Page for the Vanilla-esque Minecarft Server at: `147.135.181.214:25587` for the BOTW Modding Community!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## MODS
 
-### Markdown
+The server uses a few [FabricMC](https://fabricmc.net/use/){:target="_blank"} mods for some additional features, you will likely require these to log on:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/2988824){:target="_blank"}
 
-```markdown
-Syntax highlighted code block
+[Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987255){:target="_blank"}
 
-# Header 1
-## Header 2
-### Header 3
+[ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987255){:target="_blank"}
 
-- Bulleted
-- List
+### Direct Downloads
+[MaLiLib](https://masa.dy.fi/mcmods/malilib/malilib-fabric-1.16.0-0.10.0-dev.21+beta.2.jar){:target="_blank"}
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BOTWVANILLAMC/botwvanillamc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Litematica](https://masa.dy.fi/mcmods/litematica/litematica-fabric-1.16.0-0.0.0-dev.20200627.000333.jar){:target="_blank"}
