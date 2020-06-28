@@ -1,6 +1,6 @@
 # SERVER INFO
 
-Info Page for the Vanilla-esque Minecarft Server at: `147.135.181.214:25587` for the BOTW Modding Community!
+Info Page for the Vanilla-esque Minecraft Server at: `147.135.181.214:25587` for the BOTW Modding Community!
 
 ## MODS
 
