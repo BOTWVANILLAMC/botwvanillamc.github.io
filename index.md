@@ -1,6 +1,6 @@
 # SERVER INFO
 
-Info Page for the Vanilla-esque Minecraft Server at: `147.135.181.214:25587` for the BOTW Modding Community! **Due to almost immediate griefing the whitelist has been enabled, contact NoPyro#6891 on discord for verification and server access.**
+Info Page for the Vanilla-esque 1.16.1 Minecraft Server at: `147.135.181.214:25587` for the BOTW Modding Community! **Due to almost immediate griefing the whitelist has been enabled, contact NoPyro#6891 on discord for verification and server access.**
 
 ## MODS
 
