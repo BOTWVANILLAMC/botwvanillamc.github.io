@@ -12,6 +12,8 @@ The server uses a few [FabricMC](https://fabricmc.net/use/){:target="_blank"} mo
 
 [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip/files/2988287){:target="_blank"}
 
+[Better Than Mending](https://www.curseforge.com/minecraft/mc-mods/better-than-mending/files/2988444){:target="_blank"}
+
 ### Direct Downloads
 [MaLiLib](https://masa.dy.fi/mcmods/malilib/malilib-fabric-1.16.0-0.10.0-dev.21+beta.2.jar){:target="_blank"}
 
