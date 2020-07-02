@@ -14,6 +14,14 @@ The server uses a few [FabricMC](https://fabricmc.net/use/){:target="_blank"} mo
 
 [Better Than Mending](https://www.curseforge.com/minecraft/mc-mods/better-than-mending/files/2988444){:target="_blank"}
 
+[Soulbound](https://www.curseforge.com/minecraft/mc-mods/soulbound-fabric/files/2989863){:target="_blank"}
+
+[Vanilla Parts](https://www.curseforge.com/minecraft/mc-mods/vanilla-parts/files/2992411){:target="_blank"}
+
+[Lib MultiPart](https://www.curseforge.com/minecraft/mc-mods/lib-multipart/files/2981669){:target="_blank"}
+
+[NoExpensive](https://www.curseforge.com/minecraft/mc-mods/noexpensive/files/2990425){:target="_blank"}
+
 ### Direct Downloads
 [MaLiLib](https://masa.dy.fi/mcmods/malilib/malilib-fabric-1.16.0-0.10.0-dev.21+beta.2.jar){:target="_blank"}
 
