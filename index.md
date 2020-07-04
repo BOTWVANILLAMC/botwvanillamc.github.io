@@ -22,6 +22,18 @@ The server uses a few [FabricMC](https://fabricmc.net/use/){:target="_blank"} mo
 
 [NoExpensive](https://www.curseforge.com/minecraft/mc-mods/noexpensive/files/2990425){:target="_blank"}
 
+[Soul Soil Farmland](https://www.curseforge.com/minecraft/mc-mods/soul-soil-farmland/files/2993635){:target="_blank"}
+
+[Grind Enchantments](https://www.curseforge.com/minecraft/mc-mods/grind-enchantments/files/2990567){:target="_blank"}
+
+[Simple Harvest](https://www.curseforge.com/minecraft/mc-mods/simpleharvest/files/2989916){:target="_blank"}
+
+[Sneak through Berries](https://www.curseforge.com/minecraft/mc-mods/sneakthroughberries/files/2988186){:target="_blank"}
+
+[Java Dungeons](https://www.curseforge.com/minecraft/mc-mods/javadungeons/files/2991441){:target="_blank"}
+
+[Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling/files/29877660){:target="_blank"}
+
 ### Direct Downloads
 [MaLiLib](https://masa.dy.fi/mcmods/malilib/malilib-fabric-1.16.0-0.10.0-dev.21+beta.2.jar){:target="_blank"}
 
