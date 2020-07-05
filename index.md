@@ -32,6 +32,8 @@ The server uses a few [FabricMC](https://fabricmc.net/use/){:target="_blank"} mo
 
 [Java Dungeons](https://www.curseforge.com/minecraft/mc-mods/javadungeons/files/2991441){:target="_blank"}
 
+[Towlette](https://www.curseforge.com/minecraft/mc-mods/towelette/files/2985300){:target="_blank"}
+
 [Flora Doubling](https://www.curseforge.com/minecraft/mc-mods/flora-doubling/files/2987766){:target="_blank"}
 
 ### Direct Downloads
