@@ -4,7 +4,7 @@ Info Page for the Vanilla-esque 1.16.1 Minecraft Server at: `147.135.181.214:255
 
 ## MODPACK FILES
 
-The server uses a few [FabricMC](https://fabricmc.net/use/){:target="_blank"} mods for some additional features, you can grab a MultiMC Instance or a Twitch Modpack at these links. The Twitch Modpack may also be downloaded straight from the twitch launcher, this is heavily recommended:
+The server uses a few [FabricMC](https://fabricmc.net/use/){:target="_blank"} mods for some additional features, you can grab a MultiMC Instance or a Twitch Modpack at these links. The Twitch Modpack may also be downloaded straight from the Twitch Client, this is heavily recommended:
 
 [MultiMC Instance](https://github.com/BOTWVANILLAMC/botwvanillamc.github.io/raw/master/BOTW%20Vanilla%20-%20MMC.zip){:target="_blank"}
 
