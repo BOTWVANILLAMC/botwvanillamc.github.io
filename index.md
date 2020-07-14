@@ -8,7 +8,7 @@ The server uses a few [FabricMC](https://fabricmc.net/use/){:target="_blank"} mo
 
 [MultiMC Instance](https://github.com/BOTWVANILLAMC/botwvanillamc.github.io/raw/master/BOTW%20Vanilla%20-%20MMC.zip){:target="_blank"}
 
-[Twitch Modpack](https://www.curseforge.com/minecraft/modpacks/zmd-modpack/files/3001994){:target="_blank"}
+[Twitch Modpack](https://www.curseforge.com/minecraft/modpacks/zmd-modpack/){:target="_blank"}
 
 ### SETTING UP
 
